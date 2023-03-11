@@ -1,7 +1,8 @@
 /*
  * The film 'BUCKET BROTHERHOOD' is your favorite movie, but you're tired of watching it.
  * You want to find something new to watch that is still similar to 'BUCKET BROTHERHOOD'.
- * To find a similar movie, you decide to search the history of movies that other people have rented.
+ * To find a similar movie, you decide to search the history of movies that other people
+ have rented.
  * Your idea is that if a lot of people have rented both 'BUCKET BROTHERHOOD' and movie X,
  * then movie X must be similar and something you'd like to watch too.
  * Your goal is to create a SQL query that finds movie X.
