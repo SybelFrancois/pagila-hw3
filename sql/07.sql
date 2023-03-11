@@ -1,10 +1,12 @@
 /*
  * List all actors with Bacall Number 2;
- * That is, list all actors that have appeared in a film with an actor that has appeared in a film with 'RUSSELL BACALL',
+ * That is, list all actors that have appeared in a film with
+ an actor that has appeared in a film with 'RUSSELL BACALL',
  * but do not include actors that have Bacall Number < 2.
  */
 
-/*Comment: use common table expressions (CTEs) to define two intermediate sets of actor IDs, t1 and t2
+/*Comment: use common table expressions (CTEs) to define 
+two intermediate sets of actor IDs, t1 and t2
 */
 
 with t1 as (
